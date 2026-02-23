@@ -1,4 +1,4 @@
-# 3-5-Exercises - User Input
+# 3-5 Exercises - User Input
 
 ### Lessons learned in slides 3-3 to 3-5 (specifically in relation to the input programs)
 - It is important to put math equations within parentheses when concatenating Strings and numbers so that the numbers don't get added to the String individually.
